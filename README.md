@@ -1,6 +1,6 @@
 Hello there 👋 , this is hansoleee (Hansol Wang)
 - 💻 I'm a software engineering student at EWU
-- 🌱 I’m currently learning Full-stack
+- 🌱 I’m currently learning frontend
 - 📫 How to reach me wsw3727@gmail.com
 - 🐰 My blog is https://
 
