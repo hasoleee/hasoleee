@@ -4,4 +4,4 @@ Hello there 👋 , this is hansoleee (Hansol Wang)
 - 📫 How to reach me wsw3727@gmail.com
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=주원%20hansol&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=hansol&fontSize=70)
